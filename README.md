@@ -13,23 +13,21 @@ En este proyecto se tocararon los siguientes temas:
 
 - ThemeData
 
--- Widgets como:
+Widgets como:
 
---   Containers
+- Containers
 
---   SizeBox
+- SizeBox
 
---   ListViews
+- ListViews
 
---   CustomWidgets
+- CustomWidgets
 
---   Expanded
+- Expanded
 
---   Padding
+- Padding
 
---   Image (desde internet)
+- Image (desde internet)
 
---   ClipRRect (bordes redondeados)
-
---   Entre otros
+- ClipRRect (bordes redondeados)
 
